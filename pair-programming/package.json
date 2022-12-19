@@ -1,0 +1,12 @@
+{
+  "name": "pair-programming",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node index"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
