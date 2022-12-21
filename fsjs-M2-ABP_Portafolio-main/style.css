@@ -1,0 +1,86 @@
+* {
+    padding: auto;
+    margin: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+}
+
+a {
+    color: rgb(99, 100, 100);
+    text-decoration: none;
+    margin: 20px;
+}
+
+h1 {
+    font-size: 3rem;
+    margin: 20px;
+}
+
+h2 {
+    font-size: 2.5rem;
+    margin: 16px;
+}
+
+.header{
+    padding: 50px 10px 50px 10px ;
+    background-color: #000000;
+    color: aliceblue;
+    text-align: center;
+}
+
+.menu{
+    padding: 20px 10px ;
+    font-size: 1.5rem;
+    background-color: #000000;
+    color: aliceblue;
+    text-align: center;
+}
+
+.menu a {
+    color: aliceblue;
+}
+
+.somos_cachu{
+    padding: 100px 10px ;
+    text-align: center;
+}
+
+.somos_cachu img {
+    padding: 50px;
+    max-width: 50%;
+}
+
+.products {
+    display: flex;
+    flex-direction: column;
+    text-align: center; 
+    /* background-color: #000000;     */
+    height: 310px;
+    padding: 100px;
+}
+.gallery {
+    display: flex;
+    justify-content: space-between;
+}
+
+.gallery  img {
+    max-width: 20%;
+}
+
+.formulario {
+    padding: 100px 10px ;
+    text-align: center;
+}
+
+.footer{
+    padding: 100px 10px;
+    text-align: center;
+    text-align: center;
+    color: rgb(254, 254, 254);
+    background-color: #000000;
+}
+
+
+
+
+
